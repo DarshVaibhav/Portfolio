@@ -1,5 +1,5 @@
 # DarshVaibhav
-<a href="linkedin.com/in/darsh22vaibhav"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="linkedin.com/in"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove afterwards]
 
