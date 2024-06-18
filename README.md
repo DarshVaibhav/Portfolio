@@ -1,9 +1,9 @@
 # DarshVaibhav
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="linkedin.com/in/darsh22vaibhav"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Currently I am a 4th year B.Tech(Computer Science and Engineering) with a profound interest in AI, Data Science and Machine Learning. I am also a strong problem-solver with the ability to derive valuable insights from datasets.
 
 ## Objective
 
