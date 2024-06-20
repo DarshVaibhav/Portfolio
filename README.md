@@ -62,7 +62,7 @@ Chhatrapati Shahuji Maharaj University, Kanpur, Uttar Pradesh, India
 - [Machine Learning with Python](https://coursera.org/share/a88be14bd5502b0ae7485683e3992475) (Coursera - IBM)
 - [Data Analysis with Python](https://coursera.org/share/2e1e6e378291de8a65d12b6667cdb16d) (Coursera - IBM)
 - [Tableau](https://www.jobaajlearnings.com/certificate?file=certificate-55128-96-0.jpeg) 
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) 
+- [Python for Data Science]() 
 
 ## Contacts
 - LinkedIn: (https://www.linkedin.com/in/darsh22vaibhav/)
