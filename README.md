@@ -25,19 +25,18 @@ In this section I will list my projects briefly describing the technology stack 
 
 **Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
 
-### Tech Store Sales Analysis
 
-**Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
+### Store Sales Analysis
 
-**Code:** [`Tech Store Sales Analysis.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
+**Goal:** To Visualize the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
 
-**Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
+**Tableau Link:** [`Suoer Store sales data`](https://public.tableau.com/app/profile/darsh.vaibhav/viz/DashboardandOverallAnalysisofSuperStoreSales/Dashboard1)
 
-**Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
+**Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, data visualization. 
 
-**Technology:** Python, Pandas, Matplotlib.
+**Skills:** data cleaning, data analysis, data visualization.    
 
-**Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
+**Technology:** Tableau, Python, Pandas, Matplotlib. 
 
 
 
@@ -52,17 +51,6 @@ In this section I will list my projects briefly describing the technology stack 
 **Technology:** SQL Server
 
 
-### Covid 19 Data Exploration
-**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
-
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
-
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
-
-**Technology:** SQL Server
-
-
-
 
 
 ## Education
@@ -74,7 +62,7 @@ Chhatrapati Shahuji Maharaj University, Kanpur, Uttar Pradesh, India
 - [Machine Learning with Python](https://coursera.org/share/a88be14bd5502b0ae7485683e3992475) (Coursera - IBM)
 - [Data Analysis with Python](https://coursera.org/share/2e1e6e378291de8a65d12b6667cdb16d) (Coursera - IBM)
 - [Tableau](https://www.jobaajlearnings.com/certificate?file=certificate-55128-96-0.jpeg) 
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) () 
+- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) 
 
 ## Contacts
 - LinkedIn: (https://www.linkedin.com/in/darsh22vaibhav/)
