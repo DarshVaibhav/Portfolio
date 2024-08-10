@@ -40,15 +40,15 @@ In this section I will list my projects briefly describing the technology stack 
 
 
 
-### Nashville Housing Data Cleaning
-**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
+### New York Apartment's Data Cleaning
+**Code:** [`Data Cleaning Project: New York Apartment.ipynb`](https://github.com/DarshVaibhav/Data-Analysis/blob/main/New%20York%20Apartment%20data/New%20York%20Apartment's%20data(cleaning).ipynb)
 
-**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
+**Description:** The dataset contains a list of apartments that have been sold in New York in 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
 
 
-**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
+**Skills:** data cleaning, data analysis, data visualization.
 
-**Technology:** SQL Server
+**Technology:** Python, Pandas, Matplotlib.
 
 
 
