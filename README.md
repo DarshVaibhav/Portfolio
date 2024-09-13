@@ -8,6 +8,11 @@ My CV in [pdf](https://drive.google.com/file/d/1W772yJ_Ln_g1dpV5nmCvRZQqhb39r1Ks
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
+## Experience
+Data Science Intern at YBI Foundation
+
+**Internship Certificate:** ['Internship Certificate'](https://drive.google.com/file/d/1_6HOQRMBjOc001WbBwKG1l_mrlxICnEh/view?usp=drive_link)
+
 
 ## Portfolio Projects
 In this section I will list my projects briefly describing the technology stack used to solve cases.
