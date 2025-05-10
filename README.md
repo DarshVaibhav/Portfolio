@@ -73,6 +73,7 @@ Chhatrapati Shahuji Maharaj University, Kanpur, Uttar Pradesh, India
 ## Certificates
 
 - [Machine Learning with Python](https://coursera.org/share/a88be14bd5502b0ae7485683e3992475) (Coursera - IBM)
+- [Machine Learning and Data Science GFG](https://drive.google.com/file/d/1aAKSuqdWGRtaBa2_CtVgtcJjj9ASMKgw/view?usp=drive_link)
 - [Data Analysis with Python](https://coursera.org/share/2e1e6e378291de8a65d12b6667cdb16d) (Coursera - IBM)
 - [Introduction to Business Intelligences](https://drive.google.com/file/d/1yAGDwTqshDFjC3ITPPpaO4BPUek4KjT5/view?usp=drive_link)(Infosys-Springboard)
 - [Power BI](https://drive.google.com/file/d/1AxnYYleVpFlhjkYFPD4144gkYmTYE414/view?usp=drive_link)(Infosys-Springboard)
